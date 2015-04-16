@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_select_score_tips">
+        <item>La interferencia no está afectando a su velocidad de conexión</item>
+        <item>La interferencia está afectando a su velocidad de conexión</item>
+        <item>La interferencia está ralentizando su velocidad de conexión</item>
+    </string-array>
+    <string-array name="choose_language">
+        <item>Predeterminado</item>
+        <item>Chino Simplificado</item>
+        <item>Inglés</item>
+		<item>Español</item>
+        <item>Chino Tradicional - Hong Kong</item>
+        <item>Chino Tradicional - Taiwan</item>
+    </string-array>
+    <string-array name="language_key">
+        <item>auto</item>
+        <item>zh</item>
+        <item>en</item>
+		<item>es</item>
+        <item>zh-hk</item>
+        <item>zh-tw</item>
+    </string-array>
+    <string-array name="weekday">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
